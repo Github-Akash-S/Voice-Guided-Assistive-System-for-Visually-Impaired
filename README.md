@@ -1,6 +1,6 @@
 # Voice Guided Assistive For Visually Impaired
 
-# Language: > Java - Kotlin 
+# Language:  Java - Kotlin 
 
 # Features: 
            > Voice Commands
