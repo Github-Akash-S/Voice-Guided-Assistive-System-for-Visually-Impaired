@@ -10,3 +10,6 @@
 # Future Plans:
            > Ripe Fruits Identification
            > Known Face Name Identification
+
+
+# Environment: can be run in any mobile device (ios / Android) 
